@@ -1,4 +1,4 @@
-# Analyze-Box-Office-Data-with-Seaborn-and-Python
+# Analyze Box Office Data 
 This was the part of the coursera guidede project.
 This project is based on Analyzing Box Office Data with Seaborn and Python.
 The motion picture industry is raking in more revenue than ever with its expansive growth the world over. 
